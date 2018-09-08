@@ -19,8 +19,6 @@ PRODUCT_PACKAGES += \
     NexusLauncherPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     TimeZoneDataPrebuilt \
-    WellbeingPrebuilt \
-    MarkupGoogle \
     MatchmakerPrebuilt
 
 TARGET_MINIMAL_APPS ?= false
